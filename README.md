@@ -2,6 +2,8 @@
 
 A Vue.js 3 web-based AI terminal application that allows progressive building of features through AI-powered commands. Built with the Composition API and modern web technologies.
 
+> **Concept**: An AI Application that builds itself through progressive commands and feature generation.
+
 ## Features
 
 - **Interactive Terminal Interface**: Full-featured terminal using xterm.js
@@ -50,8 +52,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ai-terminal-app
+git clone https://github.com/younuskhannn/sdk.git
+cd sdk
 ```
 
 2. Install dependencies:

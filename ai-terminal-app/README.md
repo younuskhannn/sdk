@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Terminal App
 
 A Vue.js 3 web-based AI terminal application that allows progressive building of features through AI-powered commands. Built with the Composition API and modern web technologies.
@@ -184,3 +185,6 @@ This project is licensed under the ISC License.
 ## Support
 
 For support, please open an issue in the repository or contact the development team.
+=======
+AI Application that builds itself
+>>>>>>> e478f28035afea9a0e30a4afe8ec96bdf2e182fc
